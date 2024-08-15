@@ -25,7 +25,7 @@ git checkout solo
 # Applying Hexadecimal Colors and Improving Readability
 
 ## Apply a Hexadecimal Color
-1. [ ] Change the background color of your webpage to a hexadecimal value.
+1. [x] Change the background color of your webpage to a hexadecimal value.
 - Open your CSS file (`styles.css`).
 - Find the `p` selector and change the color value to `#4682b4` (the hex color for steelblue).
 - Your code should look like this:
@@ -39,11 +39,11 @@ p {
 View your page in the browser – it should look the same. Be sure to troubleshoot and ask for help if needed! It’s okay for new things to be hard, you’ve got this.
 
 ## Using Colorable
-2. [ ] Go [here](https://colorable.jxnblk.com/) and bookmark the page before doing anything else.
+2. [x] Go [here](https://colorable.jxnblk.com/) and bookmark the page before doing anything else.
 
 **Note:** Make sure you bookmark the main URL [https://colorable.jxnblk.com/](https://colorable.jxnblk.com/) and not the URL with a color combination like [https://colorable.jxnblk.com/4682b4/f5f5dc](https://colorable.jxnblk.com/4682b4/f5f5dc) because the second link won’t work. You can always store your favorite hex color combinations in a note or file for use in future projects.
 
-3. [ ] Now, set the text color to `#4682b4` (the hex color for steelblue) and the background color to `#f5f5dc` and see what it looks like!
+3. [x] Now, set the text color to `#4682b4` (the hex color for steelblue) and the background color to `#f5f5dc` and see what it looks like!
 
 This is an excellent tool to bookmark as it will make working with color combinations extremely easy. You can experiment with creating your own colors using the sliders, too.
 
@@ -54,19 +54,19 @@ Let’s update our page to have better contrast and readability.
 
 The quickest fix is to adjust the lightness of these elements so that one is significantly darker than the other. 
 
-4. [ ] Since we already have a light background, let’s darken the text by using this hex color: `#004466`.
+4. [x] Since we already have a light background, let’s darken the text by using this hex color: `#004466`.
 
     Notice how the contrast immediately improved, and the text is much easier to read and more enjoyable to look at. This improves accessibility and reduces eye strain for our visitors as well, making our site more pleasing to stay on for longer periods of time.
 
 ## Apply Your Own Colors for Text and Background
 
-5. [ ] Click the ‘reverse’ button and observe the change.
+5. [x] Click the ‘reverse’ button and observe the change.
 - Use the sliders to experiment with new hex colors with this table as your guide.
 - It is good practice to have one color with higher lightness and one with lower lightness to create adequate contrast.
 - A number of 7.0 or higher at the top left of the page will have great contrast for most needs.
 
-6. [ ] Set a new, well-matched background-color and text color in your CSS file. Taste is subjective, so this is more about learning the process than being a designer.
-7. [ ] Test your changes in the browser. Troubleshoot and ask for help as necessary.
+6. [x] Set a new, well-matched background-color and text color in your CSS file. Taste is subjective, so this is more about learning the process than being a designer.
+7. [x] Test your changes in the browser. Troubleshoot and ask for help as necessary.
 
 ### Table: Understanding Colorable Tool Sliders
 | Slider | Description | Effect of Modifying |
@@ -77,7 +77,7 @@ The quickest fix is to adjust the lightness of these elements so that one is sig
 
 ### Final Check
 
-8. [ ] Once more, let’s view the changes made to the webpage and troubleshoot any mistakes. Use AI and your instructor for suggestions and corrections if needed.
+8. [x] Once more, let’s view the changes made to the webpage and troubleshoot any mistakes. Use AI and your instructor for suggestions and corrections if needed.
 
 ## Congratulations, you did it!
 Now you have a powerful tool to help simplify your color choices.  Great work on your successes so far!
